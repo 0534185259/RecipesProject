@@ -39,8 +39,8 @@ All endpoints return JSON responses and follow proper HTTP methods and status co
 3. Set up `.env` file:
     ```env
     PORT=4200
-    MONGODB_URI=mongodb+srv://zpnyry5089:Zpnyry2151%40@cluster0.vngwvmm.mongodb.net/RecipesDB?retryWrites=true&w=majority
-    JWT_SECRET=12adfsdc@fsd
+    MONGODB_URI=***
+    JWT_SECRET=***
     ```
 4. Run the project: `npm start`
 5. Use **Postman** or **Thunder Client** to test endpoints
